@@ -1,4 +1,4 @@
-# Web Scraper Tool
+# Web Scraper + RAG Tool
 
 A versatile web scraping tool that can extract content from websites, convert it to markdown format, and interact with content using RAG (Retrieval Augmented Generation).
 
